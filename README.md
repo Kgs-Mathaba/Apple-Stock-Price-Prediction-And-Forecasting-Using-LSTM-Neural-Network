@@ -1,2 +1,2 @@
-# Apple-Stock-Price-Prediction-And-Forecasting-Using-LSTM-Neural-Network
+# Apple_Stock_Price_Prediction_And_Forecasting_Using_LSTM
 Apple Stock Price Prediction And Forecasting Using LSTM Neural Network
